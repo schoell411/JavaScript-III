@@ -1,7 +1,7 @@
 /* The for principles of "this";
 * in your own words. explain the four principles for the "this" keyword below.
 *
-* 1. Window Binding - This will apply if there are not other rules set. With window binding, the 'this' keyword would select the window (or global) object
+* 1. Window Binding - This will apply if there are no other rules set. With window binding, the 'this' keyword would select the window (or global) object.
 
 * 2. Implicit Binding - Implicit binding is an automatic binding. It results from the automatic binding of a property to the object it is inside of. Using this.property within an object would select said property within that object.
 
